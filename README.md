@@ -19,3 +19,6 @@
 - Then you run `git pull upstream dev` for updates when needed
 
 - Finalizing all changes will be put to master, `git push upstream master`
+
+## File Naming
+- Name of algorithm dot language extension, e.g `Tree-Sorting.java`
