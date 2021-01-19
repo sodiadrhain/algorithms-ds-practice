@@ -4,7 +4,7 @@
 
 - Fork current repo
 
-- Make sure your branch is set to default `dev`, 
+- Make sure your branch is set to default `dev`
 
 - Checkout from `dev` to a new branch `dev-{yourName}` for example, `dev-soji`
 
