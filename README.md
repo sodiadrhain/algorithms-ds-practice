@@ -21,4 +21,4 @@
 - Finalizing all changes will be put to master, `git push upstream master`
 
 ## File Naming
-- Name of algorithm dot language extension, e.g `Tree-Sorting.java`
+- Name of algorithm dot language extension, e.g `TreeSorting.java`
